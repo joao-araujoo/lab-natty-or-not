@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A magia da leitura 📚
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto visa criar um vídeo inspirador sobre a importância da leitura, utilizando IA para gerar o conteúdo de forma criativa e impactante. O vídeo foca em como a leitura pode transformar vidas, expandir horizontes e promover o crescimento pessoal, especialmente entre os jovens. Para isso, foram usados recursos de IAs generativas para criar o roteiro e um vídeo de síntese utilizando a plataforma Synthesia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Synthesia AI**: Plataforma de criação de vídeos com avatares gerados por IA, usada para sintetizar o vídeo com narração e personagens.
+- **GPT-4 (OpenAI)**: Utilizado para gerar o roteiro criativo sobre a magia da leitura, abordando pontos como empatia, criatividade e a importância da leitura para o desenvolvimento dos jovens.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O projeto começou com a pesquisa de conteúdo sobre a importância da leitura e sua relação com o desenvolvimento pessoal e acadêmico de jovens. Após a definição dos tópicos principais, o roteiro foi gerado utilizando o modelo GPT-3 da OpenAI. O texto foi então refinado para se adequar ao formato de vídeo.
+
+Depois de criar o roteiro, a plataforma Synthesia AI foi utilizada para transformar o conteúdo em um vídeo com um avatar gerado por IA que narra o texto. A narração foi ajustada para garantir clareza e engajamento com o público. Finalmente, o vídeo passou por uma leve edição para incluir transições suaves e elementos visuais que complementam a mensagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Vídeo inspirador** sobre a importância da leitura, criado com tecnologia de IA.
+- **Engajamento**: O vídeo tem o objetivo de inspirar jovens e adolescentes a verem a leitura como uma ferramenta de transformação.
+- **Educação e Entretenimento**: O projeto combina informação e entretenimento, abordando como os livros podem melhorar habilidades cognitivas, emocionais e sociais dos jovens.
+
+<a href="https://share.synthesia.io/a674eb03-2abf-4040-99d3-3acb125bc7df">Clique aqui para assistir ao vídeo</a>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um projeto 'natty' com IA foi um desafio empolgante, pois envolveu a integração de diferentes tecnologias de ponta para criar algo visualmente atraente e informativo. Utilizar uma IA como o GPT-3 para gerar o roteiro proporcionou uma base criativa, enquanto a Synthesia possibilitou que a narração fosse realizada de forma realista e envolvente. Embora o processo tenha sido intuitivo, encontrar o equilíbrio entre conteúdo educativo e uma narrativa visual dinâmica foi o maior desafio. No final, a combinação dessas ferramentas resultou em um vídeo de alta qualidade que transmite a mensagem de forma eficaz.
